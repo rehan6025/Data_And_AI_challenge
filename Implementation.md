@@ -1,0 +1,1 @@
+- step 1 - we're reading the jd and writing a specification (what does the jd demand )
